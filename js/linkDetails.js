@@ -39,7 +39,7 @@ export const linkDetails = {
         icon: 'fab fa-hackerrank',
     },
     blog: {
-        url: 'https://blog.verreauxblack.biz',
+        url: 'https://blogs.verreauxblack.me',
         text: 'Blog',
         icon: 'fas fa-blog',
     },
@@ -58,6 +58,11 @@ export const linkDetails = {
         url: 'https://stackoverflow.com/users/14666444/verreauxblack',
         text: 'StackOverflow',
         icon: 'fab fa-stack-overflow',
+    },
+    dailyDotDev:{
+        url: 'https://app.daily.dev/verreauxblack',
+        text: 'Daily.dev',
+        icon: 'fas fa-pencil-alt',
     },
     frontendmentor: {
         url: 'https://www.frontendmentor.io/profile/verreauxblack',
