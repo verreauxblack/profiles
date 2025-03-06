@@ -39,7 +39,7 @@ export const linkDetails = {
         icon: 'fab fa-hackerrank',
     },
     blog: {
-        url: 'https://blogs.verreauxblack.me',
+        url: 'https://verreauxblack.hashnode.dev',
         text: 'Blog',
         icon: 'fas fa-blog',
     },
